@@ -19,3 +19,9 @@ body {
   margin-left: 40px;
   font-size: 30px;
 }
+
+.redirects {
+    display: flex;
+    gap: 10px;
+    font-family: "Archivo Black", sans-serif;
+}
