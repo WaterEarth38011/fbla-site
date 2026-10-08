@@ -5,8 +5,11 @@ body {
   padding: 0;
 }
 
-.title {
-  background-color: #cc0000;
+.navbar {
+    background-color: #cc0000;
+    display: flex;
+    gap: 10px;
+    font-family: "Archivo Black", sans-serif
   
 }
 
@@ -18,10 +21,4 @@ body {
 .t2 {
   margin-left: 40px;
   font-size: 30px;
-}
-
-.redirects {
-    display: flex;
-    gap: 10px;
-    font-family: "Archivo Black", sans-serif;
 }
