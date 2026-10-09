@@ -9,8 +9,9 @@ body {
     background-color: #cc0000;
     display: flex;
     gap: 10px;
-    font-family: "Archivo Black", sans-serif
-  
+    font-family: "Archivo Black", sans-serif;
+    stroke: white;
+    stroke-width: 2px;
 }
 
 .t1 {
@@ -21,4 +22,11 @@ body {
 .t2 {
   margin-left: 40px;
   font-size: 30px;
+}
+
+.redirects {
+  display: flex;
+  text-align: right;
+  text-decoration: none;
+  color: black;
 }
